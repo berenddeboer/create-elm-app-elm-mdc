@@ -1,0 +1,43 @@
+{
+  "name": "create-elm-app-elm-mdc",
+  "version": "1.0.0",
+  "description": "This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).",
+  "main": "elmapp.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.7.3",
+    "create-elm-app": "^4.1.2",
+    "css-loader": "^3.4.0",
+    "custom-event": "^1.0.1",
+    "dart-sass": "^1.24.0",
+    "fibers": "^4.0.2",
+    "focus-trap": "^5.1.0",
+    "loadjs": "^4.2.0",
+    "material-components-web": "^4.0.0",
+    "normalize.css": "^8.0.1",
+    "postcss-flexbugs-fixes": "^4.1.0",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^1.1.1",
+    "webpack-merge": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "elm-app start",
+    "test": "elm-app test",
+    "build": "elm-app build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berenddeboer/create-elm-app-elm-mdc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berenddeboer/create-elm-app-elm-mdc/issues"
+  },
+  "homepage": "https://github.com/berenddeboer/create-elm-app-elm-mdc#readme"
+}
