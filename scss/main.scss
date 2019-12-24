@@ -1,0 +1,7 @@
+// Make all browsers equal
+@import "../node_modules/normalize.css/normalize.css";
+
+// Configure material before we import it
+@import "material-configuration.scss";
+
+@import "../node_modules/material-components-web/material-components-web";
