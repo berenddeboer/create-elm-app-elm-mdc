@@ -19,8 +19,8 @@ view successView webData =
             p [] [ text "No data found."]
 
         Failure err ->
-            p [] [ text ("Error: " ++ Debug.toString err) ]
-            --p [] [ text "Some error occurred" ]
+            --p [] [ text ("Error: " ++ Debug.toString err) ]
+            p [] [ text "Some error occurred" ]
 
         Success response ->
             successView response
