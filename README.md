@@ -1,6 +1,15 @@
-# Elm App
+# About
 
-This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).
+This is a starter app to build applications with the Elm port of
+Google's Material Components for the Web. This project is bootstrapped
+with [Create Elm App](https://github.com/halfzebra/create-elm-app).
+
+Besides making it easy to start with [Elm
+MDC](https://github.com/aforemny/elm-mdc), this starter app also
+provides a flexible SPA framework with both a page model and a session model.
+
+
+# Create Elm App
 
 Below you will find some information on how to perform basic tasks.
 You can find the most recent version of this guide [here](https://github.com/halfzebra/create-elm-app/blob/master/template/README.md).
