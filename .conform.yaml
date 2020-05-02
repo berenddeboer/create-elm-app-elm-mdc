@@ -18,7 +18,9 @@ policies:
           - "style"
           - "test"
           - "type"
+          - "vendor"
         scopes:
+          - "elm"
           - "scope"
           - "react-admin"
           - "graphql"
